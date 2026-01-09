@@ -1,0 +1,7 @@
+{
+    "delay": 0.1,
+    "counter_enabled": true,
+    "random_order": true,
+    "autopress_delay_min": 0.5,
+    "autopress_delay_max": 3.5
+}
